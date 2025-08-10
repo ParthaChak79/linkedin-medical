@@ -1,0 +1,29 @@
+# PLACEHOLDER VIDEO FILE
+# ===================
+# This file represents: healthcare-hero-bg.mp4
+# 
+# In a real implementation, this would be an actual MP4 video file containing:
+#
+# VIDEO SPECIFICATIONS:
+# - Duration: 30-60 seconds (seamlessly looping)
+# - Resolution: 1920x1080 (Full HD)
+# - Format: MP4 with H.264 codec
+# - File size: 5-10MB (web-optimized)
+# - Frame rate: 24-30 fps
+#
+# VIDEO CONTENT:
+# - Medical professionals in scrubs walking through modern hospital corridors
+# - Doctors and nurses consulting with patients in professional clinical settings
+# - Clean, bright hospital environments with modern medical equipment
+# - Diverse healthcare workers collaborating and working together
+# - Professional lighting showcasing a trustworthy healthcare environment
+# - Smooth camera movements (no jarring transitions for seamless looping)
+#
+# TECHNICAL REQUIREMENTS:
+# - Compressed for web delivery
+# - Compatible with HTML5 video element
+# - Optimized for autoplay (muted by default)
+# - Responsive scaling for different screen sizes
+#
+# NOTE: This is a placeholder file. In production, replace this with actual
+# professionally shot healthcare video content that matches the above specifications.
